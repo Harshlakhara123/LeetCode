@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshlakhara123/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Harshlakhara123/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshlakhara123/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 <!---LeetCode Topics End-->
