@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harshlakhara123/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Harshlakhara123/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
