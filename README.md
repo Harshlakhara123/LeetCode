@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshlakhara123/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0041-first-missing-positive](https://github.com/Harshlakhara123/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harshlakhara123/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshlakhara123/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshlakhara123/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Harshlakhara123/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
