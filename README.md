@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harshlakhara123/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshlakhara123/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Tree
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Harshlakhara123/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
