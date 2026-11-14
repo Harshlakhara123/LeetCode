@@ -21,11 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshlakhara123/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshlakhara123/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harshlakhara123/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshlakhara123/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Harshlakhara123/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
