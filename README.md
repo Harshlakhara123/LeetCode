@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshlakhara123/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshlakhara123/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harshlakhara123/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshlakhara123/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshlakhara123/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Harshlakhara123/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -70,4 +72,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshlakhara123/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
