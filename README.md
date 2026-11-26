@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Harshlakhara123/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshlakhara123/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3360-stone-removal-game](https://github.com/Harshlakhara123/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Harshlakhara123/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Harshlakhara123/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Harshlakhara123/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Harshlakhara123/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
