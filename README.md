@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshlakhara123/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/Harshlakhara123/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Harshlakhara123/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Harshlakhara123/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harshlakhara123/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshlakhara123/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshlakhara123/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -92,8 +93,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Harshlakhara123/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Harshlakhara123/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Harshlakhara123/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Harshlakhara123/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
